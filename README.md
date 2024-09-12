@@ -1,4 +1,4 @@
-# spotifySummary
+# spotify_summary
 Sorts through spotify data
 
 At some point, my friends were discussing their most listened to songs, and I remembered that you can actually request Spotify to send you all the data they have on you, including your entire listening history as JSON files. This repo just contains a script to process that data.
